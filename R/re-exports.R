@@ -1,4 +1,10 @@
 #' @export
+`%@%` <- rlang::`%@%`
+
+#' @export
+`%@%<-` <- rlang::`%@%<-`
+
+#' @export
 `%||%` <- rlang::`%||%`
 
 #' @export
@@ -12,5 +18,4 @@
 
 #' @export
 `%!in%` <- murlib.core::`%!in%`
-
 

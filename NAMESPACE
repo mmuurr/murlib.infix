@@ -3,5 +3,7 @@
 export("%!in%")
 export("%0%")
 export("%===%")
+export("%@%")
+export("%@%<-")
 export("%|%")
 export("%||%")
