@@ -19,3 +19,5 @@
 #' @export
 `%!in%` <- murlib.core::`%!in%`
 
+#' @export
+`%notin%` <- murlib.core::`%notin%`
